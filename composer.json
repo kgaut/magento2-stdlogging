@@ -1,5 +1,5 @@
 {
-    "name": "graycore/magento2-stdlogging",
+    "name": "kgaut/magento2-stdlogging",
     "description": "A Magento 2 module that changes all logging handlers to stdout",
     "type": "magento2-module",
     "license": "MIT",
